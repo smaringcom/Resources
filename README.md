@@ -1,6 +1,6 @@
 ## [Dig Electronics WiKi](https://github.com/smaringcom/Wiki/wiki)
 
-Hi, everyone, Thanks very much for your visiting on [ELectronicsFun WiKi](https://github.com/smaringcom/Wiki/wiki).
+Hi, everyone, Thanks very much for your visiting on [digelectronics WiKi](https://github.com/smaringcom/Wiki/wiki).
 
 ### wiki from [digelectronics](https://www.electronicsfun.cc/)
 
